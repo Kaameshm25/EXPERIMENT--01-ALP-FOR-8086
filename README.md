@@ -1,5 +1,5 @@
 # EXPERIMENT 01 ALP FOR 8086
-## Name : Kaamesh M
+## Name : KAAMESH M
 ## Reg no : 212223040080
  ## Date of experiment:10/3/2025
 ## Aim:
